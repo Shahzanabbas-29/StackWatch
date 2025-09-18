@@ -1,0 +1,12 @@
+{
+  "ProdDB1": {
+    "user": "monitor",
+    "password": "monitor",
+    "dsn": "10.145.1.215:1522/rundb1"
+  },
+  "ProdDB2": {
+    "user": "your_user",
+    "password": "your_password",
+    "dsn": "host:port/service_name"
+  }
+}
