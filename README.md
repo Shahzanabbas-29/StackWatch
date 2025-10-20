@@ -517,17 +517,7 @@ Free to use, modify, and distribute with attribution.
 
 <br>
 
-## ⭐ Show Your Support
 
-If you found this project helpful, please give it a ⭐ on GitHub!
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Shahzanabbas-29/StackWatch&type=Date)](https://star-history.com/#Shahzanabbas-29/StackWatch&Date)
-
-[![GitHub Stars](https://img.shields.io/github/stars/Shahzanabbas-29/StackWatch?style=social)](https://github.com/Shahzanabbas-29/StackWatch/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/Shahzanabbas-29/StackWatch?style=social)](https://github.com/Shahzanabbas-29/StackWatch/network/members)
-[![GitHub Watchers](https://img.shields.io/github/watchers/Shahzanabbas-29/StackWatch?style=social)](https://github.com/Shahzanabbas-29/StackWatch/watchers)
 
 ---
 
